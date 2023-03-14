@@ -2,7 +2,7 @@
 Links that talk about netflix recommender systems
 * [Deep Learning](https://www.deeplearningbook.org/)
 * [pancr9/Netflix-Recommender-System](https://github.com/pancr9/Netflix-Recommender-System)
-*[storieswithsiva/Movie-Recommendation-Netflix](https://github.com/storieswithsiva/Movie-Recommendation-Netflix)
+* [storieswithsiva/Movie-Recommendation-Netflix](https://github.com/storieswithsiva/Movie-Recommendation-Netflix)
 * [Cómo funciona el sistema de recomendaciones de Netflix](https://help.netflix.com/es/node/100639)
 * [netflix-recommendations-beyond-5-stars](https://techblog.netflix.com/2012/06/netflix-recommendations-beyond-5-stars.html)
 * [Netflix - Movie recommendation](https://www.kaggle.com/code/laowingkin/netflix-movie-recommendation/notebook)
